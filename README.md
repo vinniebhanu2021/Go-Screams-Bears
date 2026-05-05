@@ -22,3 +22,5 @@ This project is set up to run locally or in the p5.js web editor.
 - Hum or sing at a high pitch to jump
 - Spacebar or Up Arrow also jumps
 - `R` restarts after game over
+upload Demo video for the application
+https://github.com/user-attachments/assets/7afc7aab-793f-48e4-ae17-16c012ea0043
