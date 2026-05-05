@@ -1,5 +1,8 @@
 # Scream Bears p5.js
 
+## Demo Video
+https://github.com/user-attachments/assets/3ac3f100-4f08-46d2-938d-54cc1cdfac8d
+
 This project is set up to run locally or in the p5.js web editor.
 
 ## Files
@@ -21,6 +24,4 @@ This project is set up to run locally or in the p5.js web editor.
 - Click to enable mic and start
 - Hum or sing at a high pitch to jump
 - Spacebar or Up Arrow also jumps
-- `R` restarts after game over
-upload Demo video for the application
-https://github.com/user-attachments/assets/7afc7aab-793f-48e4-ae17-16c012ea0043
+
